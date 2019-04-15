@@ -17,7 +17,7 @@ Elementos y métodos asociados
  
 Temas transversales
 * Indexación
-* Funciones* built-in*
+* Funciones *built-in*
 * Iteradores (loops y listas por comprensión)
 * Excepciones (condiciones validadas con booleanos)
 
@@ -29,7 +29,7 @@ Temas transversales
 2. Introducir y familiarizarse con la lectura y la exploración de datasets, permitiendo identificar límites y potencial de los datos así como su adecuación para el análisis.
 
 ### Datasets
-Datos abiertos del GCBA. Ministerio de Salud. Instituto de Trasplantes de la Ciudad de Buenos Aires. Los descargamos de [aquí]('https://data.buenosaires.gob.ar/dataset/manifestaciones-a-la-donacion-para-trasplantes').
+Datos abiertos del GCBA. Ministerio de Salud. Instituto de Trasplantes de la Ciudad de Buenos Aires. Los descargamos de [aquí](https://data.buenosaires.gob.ar/dataset/manifestaciones-a-la-donacion-para-trasplantes).
 
 **Manifestaciones a la donación para trasplantes**
 Información correspondiente a la Campaña de Promoción “Hoy también elegís ser donante de órganos” organizada por el Instituto de Trasplante de la Ciudad de Buenos Aires en el marco de la jornada electoral **PASO 2017** dando cumplimiento a la Ley 2508/07. Se realizó en 62 establecimientos autorizados por la Justicia Electoral de la Ciudad de Buenos Aires.
@@ -40,6 +40,7 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 
 
 ## Material de consulta
-* stackoverflow.com
-* Skiena, S. S. (2017). The Data Science Design Manual. Springer.
-* VanderPlas, J. (2016). A Whirlwind Tour of Python. O’Reilly. Podes acceder al libro y las notebooks desde [aquí]('https://jakevdp.github.io/WhirlwindTourOfPython/').
+* [stack overflow](https://stackoverflow.com/)
+
+* Skiena, S. S. (2017). The Data Science Design Manual. Springer. Aquí encontrás el [libro](https://www.webpages.uidaho.edu/~stevel/517/The%20Data%20Science%20Design%20Manual.pdf) y algo de código en las [notebooks](https://github.com/yeseullee/Data-science-design-manual-notebooks)
+* VanderPlas, J. (2016). A Whirlwind Tour of Python. O’Reilly. Podes acceder al libro y las notebooks desde [aquí](https://jakevdp.github.io/WhirlwindTourOfPython/).
